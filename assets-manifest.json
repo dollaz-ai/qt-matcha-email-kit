@@ -1,0 +1,612 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 41,
+    "sha256": "554a6ae70a97dd0f29f1820e344755401ed84048559d7986bd5c5c0159dce485"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3966,
+    "sha256": "86dc94ab1434c5c376fa1a23609c21acfe58a31950f28dbfc92fd6b266744076"
+  },
+  {
+    "path": "USAGE.md",
+    "bytes": 1035,
+    "sha256": "518e8452e72376844f1ded332fce1fbfbbaf8cb6761294e73d486923ade00e2f"
+  },
+  {
+    "path": "assets/brand/qt-wordmark.png",
+    "bytes": 5334,
+    "sha256": "c246a49932b80e5dcfbb76857dd33b70a47e8ef0bfc224ade5bda46fdec46cac"
+  },
+  {
+    "path": "assets/brand/three-packets.png",
+    "bytes": 803462,
+    "sha256": "645ebfecd810ddcea79535c8085fe742fc6dc30a33b402406bab53d2ed0f181e"
+  },
+  {
+    "path": "assets/dividers/cream-green.png",
+    "bytes": 3466,
+    "sha256": "0b243810cab1cda7e382c8d1620ee134eab49ecf2a8a2ee83d26fa83dfa7899a"
+  },
+  {
+    "path": "assets/dividers/green-cream.png",
+    "bytes": 3452,
+    "sha256": "49f1f67ca38ce03c0264355394620f675eeec38dab2f72a247d1e28031bc9ae7"
+  },
+  {
+    "path": "assets/dividers/pink-cream.png",
+    "bytes": 2647,
+    "sha256": "8b49ef2fd523f5848db3fb31b27a33f6ab0388dd13ddf535a5cd0fcb40c5fba7"
+  },
+  {
+    "path": "assets/illustrations/png/a-little-gift.png",
+    "bytes": 8087,
+    "sha256": "c961e001512a33efc22b23509882616f12130d623ddfc1d228d5bbe8cb228fc8"
+  },
+  {
+    "path": "assets/illustrations/png/back-in-stock.png",
+    "bytes": 9481,
+    "sha256": "11fd0a181fef584f46efe4e042644725d1d71735139a3427c6043aaff04cf745"
+  },
+  {
+    "path": "assets/illustrations/png/daily-bottle.png",
+    "bytes": 7829,
+    "sha256": "dabd91a67a053deafd7360459229cd0977cf438aa70eae7374fc7784dd642749"
+  },
+  {
+    "path": "assets/illustrations/png/daily-date.png",
+    "bytes": 8754,
+    "sha256": "4848674042670a6f8445cc2c22d62f1d079c084ea631694e080a67169a2caeb2"
+  },
+  {
+    "path": "assets/illustrations/png/instruction-pour.png",
+    "bytes": 7221,
+    "sha256": "b0d414a711ef2dd69abe14aac79b1a27b60b484972f78ed100201fd96308c68c"
+  },
+  {
+    "path": "assets/illustrations/png/instruction-shake.png",
+    "bytes": 8568,
+    "sha256": "04414653970c85dd566e6a212b1f2df420a682ad0413d4134b48bd8931ca523c"
+  },
+  {
+    "path": "assets/illustrations/png/instruction-tear.png",
+    "bytes": 3723,
+    "sha256": "3093219822cef44ba3f78a74d00e3e76bc70ab34226b47e960cc9aadda89bc71"
+  },
+  {
+    "path": "assets/illustrations/png/little-cart.png",
+    "bytes": 9315,
+    "sha256": "75b7ead7e6c7e95fd5307613522beebdb428e833ad8622f4b342fa92a7be73da"
+  },
+  {
+    "path": "assets/illustrations/png/little-packet.png",
+    "bytes": 14260,
+    "sha256": "301c8033e553a91447ea68ee804280b7326af4a346ef686b320df07f243ee534"
+  },
+  {
+    "path": "assets/illustrations/png/morning-sip.png",
+    "bytes": 10980,
+    "sha256": "29c8c48d15c59afa1600e9348cb38cca9fc03c5b7a3c9f5dfcf3cf175124b6c5"
+  },
+  {
+    "path": "assets/illustrations/png/order-confirmed.png",
+    "bytes": 9588,
+    "sha256": "144ca0d923c453158bfc24b85651e063710510340026f791d6a8f078a12be60c"
+  },
+  {
+    "path": "assets/illustrations/png/peach-please.png",
+    "bytes": 17102,
+    "sha256": "75b52dd153bb5d9377917bd3652311ec0924b8deede6af1d1ca7967664ccc0d1"
+  },
+  {
+    "path": "assets/illustrations/png/qt-notebook.png",
+    "bytes": 6667,
+    "sha256": "fa5d8b622b5db0fe145d1a4cce6c6b357ec0460afc41eb2672e4d3cf433557fa"
+  },
+  {
+    "path": "assets/illustrations/png/qt-on-the-way.png",
+    "bytes": 8252,
+    "sha256": "86c478cedf57ef0b16395eec44ddbb9a2b4ed5c92f22f8987675d6d08b355cf7"
+  },
+  {
+    "path": "assets/illustrations/png/strawberry-crush.png",
+    "bytes": 17793,
+    "sha256": "6a4be033cdfd87fc26ca9350236b56eb9f53724069f9257f9cd08efe2f1e4296"
+  },
+  {
+    "path": "assets/illustrations/png/take-qt.png",
+    "bytes": 12040,
+    "sha256": "8efbc0e3f3cddae169d892f1cc7387aaaf8cb76fad12ed454a0dceed7b003ab9"
+  },
+  {
+    "path": "assets/illustrations/png/tell-us.png",
+    "bytes": 8663,
+    "sha256": "26081baa2d9ed919cc916f28cb63c00dedf1b8fce64ed8b1eccb8c77c55b811e"
+  },
+  {
+    "path": "assets/illustrations/png/thank-you.png",
+    "bytes": 13623,
+    "sha256": "f16c6bd9ce3afd8bdd436cea060af1adacc4141902de562b32fdd47a883672df"
+  },
+  {
+    "path": "assets/illustrations/png/we-miss-you.png",
+    "bytes": 10953,
+    "sha256": "03e1811c9ebcf53a48cf9adc5531a9021bb6bf78577d73a018aa980eb9ef013c"
+  },
+  {
+    "path": "assets/illustrations/png/welcome-note.png",
+    "bytes": 13247,
+    "sha256": "2c7b92fecd955a002ede2a7b7a289b457e22bb14d1dfd62f207a1e8794a35032"
+  },
+  {
+    "path": "assets/illustrations/png/yuzu-sunshine.png",
+    "bytes": 15977,
+    "sha256": "b3414e4dda7e17e9e600699cf5bd716ad9649e096c8a95adc2792e91ffd5a7ff"
+  },
+  {
+    "path": "assets/illustrations/svg/a-little-gift.svg",
+    "bytes": 859,
+    "sha256": "2aa66ceab11efc396315ca5a04da68c6fe68fbee9e262ed1666f1527a55f8ca5"
+  },
+  {
+    "path": "assets/illustrations/svg/back-in-stock.svg",
+    "bytes": 635,
+    "sha256": "fab7d1ffb975ca785ecc42d15c9758672f85db2d84e1c8d058698e572c1b837f"
+  },
+  {
+    "path": "assets/illustrations/svg/daily-bottle.svg",
+    "bytes": 1029,
+    "sha256": "1a2ad59783910f21c1673e6a709b5cc3cc098975001cd8e5bfdd11d290eabe02"
+  },
+  {
+    "path": "assets/illustrations/svg/daily-date.svg",
+    "bytes": 821,
+    "sha256": "935a41586958f4537cff410009436632b5515f4fa6bb4075e03523e77ae5db5a"
+  },
+  {
+    "path": "assets/illustrations/svg/instruction-pour.svg",
+    "bytes": 257,
+    "sha256": "4bac8566d09de950bce557cdf3d7888d4b4d5804d73ac095e3ae888ada89332c"
+  },
+  {
+    "path": "assets/illustrations/svg/instruction-shake.svg",
+    "bytes": 278,
+    "sha256": "704a091b376c1b0e234f5def8cb0441b35d6fed456e782bed47ebece5afd7b89"
+  },
+  {
+    "path": "assets/illustrations/svg/instruction-tear.svg",
+    "bytes": 244,
+    "sha256": "da83f64ad1f3ea6e3e7bb7aab5c7e50dba97903e0b25e00b48df52a815d9f0db"
+  },
+  {
+    "path": "assets/illustrations/svg/little-cart.svg",
+    "bytes": 1137,
+    "sha256": "b57111beda59fae88b3bb109342618f03a62c561f7609f59e0d0d5d8f006431e"
+  },
+  {
+    "path": "assets/illustrations/svg/little-packet.svg",
+    "bytes": 686,
+    "sha256": "92e09f0c26191b471fed06904a3f584d0078e5667e5e79039b4b7fc763484405"
+  },
+  {
+    "path": "assets/illustrations/svg/morning-sip.svg",
+    "bytes": 1546,
+    "sha256": "cbb11e54d4f5b7e06a744fbf3b2a4de11565796a9aa6873123d71891bdfade7a"
+  },
+  {
+    "path": "assets/illustrations/svg/order-confirmed.svg",
+    "bytes": 649,
+    "sha256": "c6057887b6bcd72a7d8af8971f01b42c051371d44cb5873a59dc7d3c016631c0"
+  },
+  {
+    "path": "assets/illustrations/svg/peach-please.svg",
+    "bytes": 694,
+    "sha256": "15efb478a3256306c00030562467923299373997b7b3b254ecd3f2e69529c45c"
+  },
+  {
+    "path": "assets/illustrations/svg/qt-notebook.svg",
+    "bytes": 579,
+    "sha256": "530d8da7c25ff1eedeea86fa4edbe1013d0bd4976477f876f90c7942efa78766"
+  },
+  {
+    "path": "assets/illustrations/svg/qt-on-the-way.svg",
+    "bytes": 569,
+    "sha256": "9dd74feaa2f6f46798f565ef3b14dce9b0e544ef2a3f2830e33dac52f0136d99"
+  },
+  {
+    "path": "assets/illustrations/svg/strawberry-crush.svg",
+    "bytes": 1085,
+    "sha256": "9edef1ca20872202185c9fd7f4543fc6434037bb2ce1ef881d947b38c7a8cc5d"
+  },
+  {
+    "path": "assets/illustrations/svg/take-qt.svg",
+    "bytes": 697,
+    "sha256": "4aa1a579f4cff0691ae7638edd5cc813f8a502a739c0a25bf1bb107f3f241eba"
+  },
+  {
+    "path": "assets/illustrations/svg/tell-us.svg",
+    "bytes": 547,
+    "sha256": "af0a3f0ac5c9190d467de5ace3fda14f986b617c7c84732d81191102f1d89240"
+  },
+  {
+    "path": "assets/illustrations/svg/thank-you.svg",
+    "bytes": 533,
+    "sha256": "d03a5aaaa139d038d416699689be8ac26fca95d49e073129ffd3fd4501ce7f4d"
+  },
+  {
+    "path": "assets/illustrations/svg/we-miss-you.svg",
+    "bytes": 833,
+    "sha256": "2a63b6b66e4028daad3b7dacd0a1050eaddfbc31276548b1ed0925311d51b858"
+  },
+  {
+    "path": "assets/illustrations/svg/welcome-note.svg",
+    "bytes": 729,
+    "sha256": "d8b76124a332eb5a7554dff592d1a18bb3f5e98170efa0ea432f49fcc743acf0"
+  },
+  {
+    "path": "assets/illustrations/svg/yuzu-sunshine.svg",
+    "bytes": 874,
+    "sha256": "9bda2cb05adb9a330042410ff00557785a65a122de7366a8d3e7ea13bd6c1527"
+  },
+  {
+    "path": "assets/lifestyle/approved.json",
+    "bytes": 1027,
+    "sha256": "f5d229d1759242a8949154294b79467f4f3f319b71384fc2e965d281afa6ed4b"
+  },
+  {
+    "path": "assets/lifestyle/catalog.json",
+    "bytes": 4616,
+    "sha256": "b74c688f189bb793a890c86c86d20d58c6054f1e6c06e19213bb9289ae0d5d51"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-02.jpg",
+    "bytes": 278043,
+    "sha256": "4418b4b717de3f44c51a505ffc24576a5f3d8ca9c326769ef66b3b75dd0df3cf"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-04.jpg",
+    "bytes": 612525,
+    "sha256": "40598f51c1d68f5ed2008f466c022e6ce17856acdb141264d6df0300f6157a40"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-06.jpg",
+    "bytes": 209844,
+    "sha256": "fe2a6c5615106b10b93d5c0e8d8ff64add7af23af78c48edf1eb6351aefe03f2"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-08.jpg",
+    "bytes": 178997,
+    "sha256": "854c4531a7f1adc59e942bc88dd4f13b39938a29e5662c1e91b493b6d4462f18"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-09.jpg",
+    "bytes": 453041,
+    "sha256": "a43393de7c4039abeb34541b3abb29928d5627fd146e470041ce4fc7b9599698"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-11.jpg",
+    "bytes": 245303,
+    "sha256": "7352bee9eb40784c4905d40370988bc5ff2b361ed4d93fdb228b6402db394cbd"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-13.jpg",
+    "bytes": 217260,
+    "sha256": "c6aaf8d274a6002a37dd962cf89a6d85d06012bcd190795a6113f10e83965305"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-14.jpg",
+    "bytes": 153950,
+    "sha256": "951dbb722d0434595804fdc676487345cedcf39496854524c797eb446269b9e8"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-15.jpg",
+    "bytes": 300617,
+    "sha256": "586def3e3f40b5afdb4ee2236b30e330d88673b8d82842b4b855d4aa0059392f"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-16.jpg",
+    "bytes": 280923,
+    "sha256": "2a0bb6d00f7882a17baf7a30fe5c1e2e242f27b6746f48edb5619a65904b4a04"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-17.jpg",
+    "bytes": 226632,
+    "sha256": "aeaef1ee752b34e54cd2203084dfa2ee6fcc62743b890448eac9a8e3e17d9dde"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-18.jpg",
+    "bytes": 264136,
+    "sha256": "a240a7337b480070cce2e28502bc52160a7acb4fe4e583594178137b291901ba"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-29.jpg",
+    "bytes": 358327,
+    "sha256": "8b0ba46154221779d05233b90b4adbfaf8f57ece52b05f5079470b176e239f90"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-30.jpg",
+    "bytes": 494709,
+    "sha256": "ad26833355b2fa0a3dd50a2d09c00cbcdfdb61c9dac19b1accf2c3689fa8e345"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-32.jpg",
+    "bytes": 189756,
+    "sha256": "434442d51582f8f6121f31cd6abaa18cef580d753497a5672aa382715a045d1c"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-33.jpg",
+    "bytes": 168837,
+    "sha256": "416e99e52b732015f09466e11fd114310e30ab9da01795ef93a502f1d8af7d9e"
+  },
+  {
+    "path": "assets/lifestyle/email-jpg/qt-lifestyle-34.jpg",
+    "bytes": 126390,
+    "sha256": "03a723a5f65cab96b0c484bb669ccf0c83eaaf8c268f5870fb53ff0f259dbe7e"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-02.webp",
+    "bytes": 358974,
+    "sha256": "1e7a3f3c45292222ddb533709b5e6e4801dea4bc5754d0e067eae58fefe0df94"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-04.webp",
+    "bytes": 1238222,
+    "sha256": "c6c73c54ad0a3f9d171a18c7607d2c9776d50c6a248125739be6a7071209edcd"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-06.webp",
+    "bytes": 234734,
+    "sha256": "d5dfe6830a7a42b217fa532822a07871e35db138a13f5dacbe5c7149e7f89be9"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-08.webp",
+    "bytes": 193522,
+    "sha256": "319f64542af567374421055979e6a9c1ac0c45e46e15d906927aefc1d955845d"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-09.webp",
+    "bytes": 778138,
+    "sha256": "bdf9d78481c2834ace7338e98e4124d4191fa84970f0d1cb33cd614690a1a041"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-11.webp",
+    "bytes": 283684,
+    "sha256": "e2b23bcab9bf283eb955a8d3ba340195e2b43f14a3cf054904dab39ef615989a"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-13.webp",
+    "bytes": 260846,
+    "sha256": "c6008a36a2f773e4df7096c1e3e91ca75293bd0f82b3fb12870a02bcb04c608c"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-14.webp",
+    "bytes": 167724,
+    "sha256": "9aecaa1ba97fd4a70dca86deb0c4730570d641b6c4a58a1e6e3169701cca4ad9"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-15.webp",
+    "bytes": 361552,
+    "sha256": "1e8b813c27fb023ab5cc6bb22fb8e5ac780907b117dffe3cc0f5ea1bd1dea904"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-16.webp",
+    "bytes": 427894,
+    "sha256": "32e7000e187416b67d0b2778121932c7b8ec739b58c3b4d62dc9e98ad3197ea9"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-17.webp",
+    "bytes": 272398,
+    "sha256": "1e9e4d4ec93b5fada8662b26d7f827c6f8326072fd4629420359e234ab41fe52"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-18.webp",
+    "bytes": 325724,
+    "sha256": "df4b61a2188eaf4171aba7f3ad0ffbdfaac793295bf2cc7bc4fb4f757426eb28"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-29.webp",
+    "bytes": 563302,
+    "sha256": "b30fa0ef049649e3399dde4ef603fbbc1d3e0dcb3197bcde064b0606a079d17e"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-30.webp",
+    "bytes": 924120,
+    "sha256": "b96711c70719a4e499a656587dcd65ef641f072b40e8d331b656c2ad844c82d1"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-32.webp",
+    "bytes": 248504,
+    "sha256": "2ed563f765b4d2a1674393e1aceb0fab1899272a1ce03379b7256e02b651ed9f"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-33.webp",
+    "bytes": 291290,
+    "sha256": "6b213d153f30bce4745ee4fff3f7c92bfc13ff65ab01ed41d8d51fff8f51b30c"
+  },
+  {
+    "path": "assets/lifestyle/webp/qt-lifestyle-34.webp",
+    "bytes": 215678,
+    "sha256": "5b2fc1dc9dbb0ed8b24003bafdee2ab2685bffbe93ac50163fa54ab9db6a01cd"
+  },
+  {
+    "path": "assets/product/lemon-yuzu-fruit-still-life.png",
+    "bytes": 1116545,
+    "sha256": "3b96b5b78346540f566065de2dd15cab63ff7ad7d210d911d6abfc9b9e13c29f"
+  },
+  {
+    "path": "assets/product/lemon-yuzu-packet.png",
+    "bytes": 338571,
+    "sha256": "625b379ffe82b617a0495a22c7945e48a700b88362a0e205f52bf570768869dc"
+  },
+  {
+    "path": "assets/product/strawberry-fruit-still-life.png",
+    "bytes": 2534905,
+    "sha256": "c26a1cbad2a4ecdba97e07425dc71d4d9ff39247eac1ab07be6e0cfa63fb79e7"
+  },
+  {
+    "path": "assets/product/strawberry-packet.png",
+    "bytes": 340590,
+    "sha256": "aa642c46ed2534d8910b40d0f41196d20acb0ac3d149353c94baecc72266cd44"
+  },
+  {
+    "path": "assets/product/white-peach-fruit-still-life.png",
+    "bytes": 1163155,
+    "sha256": "d13e87638e3984098b7f5cb0cdbb429f5dbae120cd6d592c55f7aae19ab2a489"
+  },
+  {
+    "path": "assets/product/white-peach-packet.png",
+    "bytes": 334117,
+    "sha256": "417cb452c1651daea43fd03eaf63be50c3bbed2df38a0bcc889e2acf60e562b9"
+  },
+  {
+    "path": "design-tokens.json",
+    "bytes": 802,
+    "sha256": "267f62108c7ae631d9dfe6c9b7a658327a85adee55110e8eff464e22513d52df"
+  },
+  {
+    "path": "designs/abandoned-checkout-desktop.png",
+    "bytes": 62427,
+    "sha256": "c6271fc0105607f860bfccb73b56cd03799c2e497c4423c876f4dcefca019be2"
+  },
+  {
+    "path": "designs/abandoned-checkout-mobile.png",
+    "bytes": 56231,
+    "sha256": "b2fa5cfdd5d776f24f5448b513a7a4f955be7ace283715065f9968234a90070e"
+  },
+  {
+    "path": "designs/figma-reference-map.json",
+    "bytes": 2106,
+    "sha256": "4e79ad3586b85858225d551f777b2baf8d78751c44717dd02028638a9ed95aa6"
+  },
+  {
+    "path": "designs/flavor-illustrated-desktop.png",
+    "bytes": 495405,
+    "sha256": "1b85b8982eba488d2a7877d7df8d82b3a971945fcc58d1c6cd5a3288bf8017db"
+  },
+  {
+    "path": "designs/flavor-illustrated-mobile.png",
+    "bytes": 238789,
+    "sha256": "30ab8451530853bef0d1bbce7ed97e9f1573765c96abc6fcf58ebea549da9a63"
+  },
+  {
+    "path": "designs/founder-note-desktop.png",
+    "bytes": 66090,
+    "sha256": "d4e0f90a3a45b5a674fb3a5964b4cc80f3178daa2547b5a8c5b5df1b5b02c18c"
+  },
+  {
+    "path": "designs/founder-note-mobile.png",
+    "bytes": 61546,
+    "sha256": "c27508b0d5aaf18def35f334692bd0bfa1550077eca7990b9cf2090ac64f999b"
+  },
+  {
+    "path": "designs/illustration-contact-sheet.jpg",
+    "bytes": 81428,
+    "sha256": "915b27ea46eca27ebf911990e988835e44cb422fd4db27ec67e8cada7a89edc2"
+  },
+  {
+    "path": "designs/launch-desktop.png",
+    "bytes": 490641,
+    "sha256": "1fc867eb2f1df57c5cd277770496fcca4b3755a8e6044e3f31f1bddfdb8ce1df"
+  },
+  {
+    "path": "designs/launch-mobile.png",
+    "bytes": 234130,
+    "sha256": "6e423340670eef2851084094b68976ef4d7a7a96496cc78ec9a5cc5640e321e4"
+  },
+  {
+    "path": "designs/lifestyle-contact-sheet.jpg",
+    "bytes": 319776,
+    "sha256": "d758cc7228d0b72b37934aa8d7c5fd20f8d478072b68d121a7a447b32cb26971"
+  },
+  {
+    "path": "designs/newsletter-illustrated-desktop.png",
+    "bytes": 78603,
+    "sha256": "f94f78d54da41aebfc0d386d820c9ed8783d238026b10cf62499f35c82b9a199"
+  },
+  {
+    "path": "designs/newsletter-illustrated-mobile.png",
+    "bytes": 72507,
+    "sha256": "5216f2ad28c1b60b6c66e922f3eeb9ccb567a5bf547236becb801f55ce930619"
+  },
+  {
+    "path": "designs/order-confirmation-desktop.png",
+    "bytes": 53619,
+    "sha256": "c5d52b5cc26817f9085b3098dbeeab23c69f8a617ae546e0279bef0a61522978"
+  },
+  {
+    "path": "designs/order-confirmation-mobile.png",
+    "bytes": 48992,
+    "sha256": "56383096cd7fe2527fdd1afd8a34dff05b7e8b7cbf05f8e456fbfad59960828d"
+  },
+  {
+    "path": "designs/shipping-illustrated-desktop.png",
+    "bytes": 68660,
+    "sha256": "0b0cd615511e3e3ef7053d146b38cdd2e50249cc75f270f4396dd1b2b31c48b0"
+  },
+  {
+    "path": "designs/shipping-illustrated-mobile.png",
+    "bytes": 61587,
+    "sha256": "512677ab8343190dc2c7e471d3689a911c9806b0eef1f7dfe531b1cf4a522cd9"
+  },
+  {
+    "path": "docs/ASSETS.md",
+    "bytes": 7486,
+    "sha256": "5e3d836a36f62e55c1caf8de38a791d8b554a7d1a2fbd67c767327b611429483"
+  },
+  {
+    "path": "docs/DESIGN-REFERENCES.md",
+    "bytes": 1896,
+    "sha256": "f1a79d62b919b71b733ca57b5fa34afb3a7a19ba130245e77e107de1b2128e21"
+  },
+  {
+    "path": "docs/DESIGN-SYSTEM.md",
+    "bytes": 4187,
+    "sha256": "7848558ea65a6069b4c94b2872b0dfa9284e72e04dfbbb2443d8b113d7c10841"
+  },
+  {
+    "path": "docs/EMAIL-RECIPES.md",
+    "bytes": 3635,
+    "sha256": "00c9f80346903cd8a83c3f4229799de8fabdbe855242948a84c8ad3f97ff300b"
+  },
+  {
+    "path": "docs/IMPLEMENTATION.md",
+    "bytes": 3649,
+    "sha256": "608e0ffebfac078e416e9eedb6dde40f2e9388adb723f488eb43d4e1286b20bd"
+  },
+  {
+    "path": "docs/REVIEW.md",
+    "bytes": 2016,
+    "sha256": "6f01bdc08c32e2b43821116986cd0758c22e8b5e06a7b398543711a91c59b88a"
+  },
+  {
+    "path": "index.html",
+    "bytes": 22584,
+    "sha256": "b1d676e679ae442bb77e991a9a9275fa5df98c52f5a76bea71167a975fc860fd"
+  },
+  {
+    "path": "scripts/validate.py",
+    "bytes": 2244,
+    "sha256": "eb443a2407da1e62f5938fdd424434d91b5c686fe05b7b171237ade03ad37efa"
+  },
+  {
+    "path": "templates/asset-map.json",
+    "bytes": 308,
+    "sha256": "2d900ecb7d2119a34adfd73192ad69bf51910421325b5df37c48570b41e09ff2"
+  },
+  {
+    "path": "templates/welcome-1-preview.html",
+    "bytes": 33983,
+    "sha256": "53a69894b8b0401faba2e54d4404875dc7cb111bdc0739d69e4cb4e3275748a7"
+  },
+  {
+    "path": "templates/welcome-1.html",
+    "bytes": 34193,
+    "sha256": "9cde29c8c84ce829e39c5b85d247b32442a4faa99e3a8e2dcdc5834fc4f236b8"
+  },
+  {
+    "path": "templates/welcome-1.klaviyo-definition.json",
+    "bytes": 31735,
+    "sha256": "a45eab5c7704e70664bb195c51197074b1d7ad390f3c526d346ab907fca4f06c"
+  }
+]

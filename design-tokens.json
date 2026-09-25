@@ -1,0 +1,44 @@
+{
+  "colors": {
+    "forest": "#2E4B21",
+    "cream": "#F9F8F1",
+    "pink": "#F5B1CB",
+    "lime": "#C5E748",
+    "paleLime": "#E9F3BE",
+    "peach": "#FFD0B3",
+    "yuzu": "#F4DF85"
+  },
+  "emailWidth": 600,
+  "mobileReferenceWidth": 375,
+  "fonts": {
+    "heading": {
+      "family": "Bricolage Grotesque",
+      "weight": 800,
+      "desktopH1": 44,
+      "mobileH1": 36,
+      "lineHeight": 1.1
+    },
+    "body": {
+      "family": "Figtree",
+      "weight": 400,
+      "desktop": 17,
+      "mobile": 16,
+      "lineHeight": 1.5
+    },
+    "fallback": "Arial, sans-serif"
+  },
+  "spacing": {
+    "desktopSide": 32,
+    "recommendedMobileSide": 24,
+    "section": 28,
+    "gap": 12
+  },
+  "radii": {
+    "button": 30,
+    "card": 20
+  },
+  "waveDisplay": {
+    "width": 600,
+    "height": 48
+  }
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "id": 2,
+    "flavor": "White Peach",
+    "alt": "White Peach QT with an iced matcha at home",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-02.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-02.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 4,
+    "flavor": "Lemon Yuzu",
+    "alt": "Lemon Yuzu QT and iced matcha in the sunshine",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-04.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-04.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 6,
+    "flavor": "Strawberry",
+    "alt": "Strawberry QT beside an open ice-filled bottle",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-06.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-06.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 8,
+    "flavor": "Lemon Yuzu",
+    "alt": "Lemon Yuzu QT tucked into an everyday routine",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-08.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-08.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 9,
+    "flavor": "Strawberry",
+    "alt": "Strawberry QT and an iced matcha moment",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-09.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-09.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 11,
+    "flavor": "White Peach",
+    "alt": "White Peach QT after a workout",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-11.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-11.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 13,
+    "flavor": "White Peach",
+    "alt": "White Peach QT packet held beside a refreshing drink",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-13.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-13.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 14,
+    "flavor": "Lemon Yuzu",
+    "alt": "Lemon Yuzu QT with a green matcha water bottle",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-14.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-14.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 15,
+    "flavor": "Strawberry",
+    "alt": "Strawberry QT and iced matcha during a cozy pause",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-15.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-15.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 16,
+    "flavor": "Lemon Yuzu",
+    "alt": "Lemon Yuzu QT and a daily matcha break",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-16.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-16.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 17,
+    "flavor": "White Peach",
+    "alt": "White Peach QT beside a bottle ready to mix",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-17.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-17.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 18,
+    "flavor": "Strawberry",
+    "alt": "Strawberry QT on the go",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-18.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-18.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 29,
+    "flavor": "White Peach",
+    "alt": "White Peach QT and iced matcha on the road",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-29.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-29.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 30,
+    "flavor": "Strawberry",
+    "alt": "Iced matcha and a Strawberry QT packet in the sunshine",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-30.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-30.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 32,
+    "flavor": "Lemon Yuzu",
+    "alt": "Lemon Yuzu QT and an iced drink at home",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-32.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-32.jpg",
+    "width": 1195,
+    "height": 1600
+  },
+  {
+    "id": 33,
+    "flavor": "Strawberry",
+    "alt": "Strawberry QT during a sunny afternoon break",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-33.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-33.jpg",
+    "width": 1200,
+    "height": 797
+  },
+  {
+    "id": 34,
+    "flavor": "White Peach",
+    "alt": "White Peach QT and a refreshing little pause",
+    "webp": "assets/lifestyle/webp/qt-lifestyle-34.webp",
+    "email_jpg": "assets/lifestyle/email-jpg/qt-lifestyle-34.jpg",
+    "width": 1200,
+    "height": 797
+  }
+]
