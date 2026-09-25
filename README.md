@@ -14,6 +14,10 @@ A shared starting point for QT Matcha marketing and service emails. **Use the ap
 
 **Visual gallery:** download this repository, open `index.html`, and browse the artwork, photos, and designs. To preview through a local web server, run `python3 -m http.server 4183` here and visit `http://localhost:4183`.
 
+## Signature QT waves
+
+Use our soft, squiggly section edges selectively in future emails—especially between a bright hero and cream, or around a green story section. Keep other boundaries clean; not every section or email needs a wave. [See placement rules and examples](docs/DESIGN-SYSTEM.md#signature-qt-wave-sections--use-selectively). Three ready-to-use PNG dividers are included.
+
 ## What is included
 
 | Folder | Contents |

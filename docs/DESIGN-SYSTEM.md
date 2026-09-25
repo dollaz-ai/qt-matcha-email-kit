@@ -56,3 +56,24 @@ The implemented template has a **600 px** email body, fluid below that width. Fi
 7. Appropriate service or marketing footer.
 
 Transaction emails prioritize order/tracking facts; campaigns prioritize a single story and action. Do not force every section into every email.
+
+## Signature QT wave sections — use selectively
+
+The soft, squiggly color-field edges are a signature part of this email system, alongside the typography and drawings. Carry them into selected sections of future emails, even when an earlier Figma concept shows straight edges. **Do not add a wave between every block or to every email.**
+
+Use a wave to mark a meaningful change: a bright opening flowing into cream, a product moment flowing into a green ritual/story section, or that green section flowing back into cream. These are full-width section edges, not thin squiggles placed behind text.
+
+- In most marketing emails, start with one or two wave transitions. A longer email can use three when they define clear sections, as Welcome 1 does.
+- Keep straight edges and whitespace within a section: between headline and body, around a coupon card, between product details and a button, and in the footer.
+- Short personal notes can use no waves. Order and shipping emails should prioritize clear information; one decorative hero transition is optional, while order tables, totals and tracking details stay clean.
+- Never overlap text, buttons, packet imagery or important details with a wave. Give adjacent text its normal section padding; do not add tall empty sections just to accommodate decoration.
+
+### Included transitions
+
+| Divider | Placement | Asset |
+|---|---|---|
+| Pink → cream | Bottom of a pink welcome or campaign hero | [PNG](../assets/dividers/pink-cream.png) |
+| Cream → green | Top of a green ritual / product-story section | [PNG](../assets/dividers/cream-green.png) |
+| Green → cream | Bottom of that green section | [PNG](../assets/dividers/green-cream.png) |
+
+Use the supplied PNG divider as a native image block, 600 × 48 px on desktop, scaling proportionally on mobile, with zero block and inner padding. Match the exact background colors above and below it. If a peach or yuzu campaign needs its own transition, export a matching recolored divider; do not place the pink divider against a peach background.

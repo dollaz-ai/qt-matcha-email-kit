@@ -6,8 +6,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 3966,
-    "sha256": "86dc94ab1434c5c376fa1a23609c21acfe58a31950f28dbfc92fd6b266744076"
+    "bytes": 4354,
+    "sha256": "cd30617b19ee72be664c9dfc7cdb255c11f7a78051d27dd12f714ef7a0faf2e5"
   },
   {
     "path": "USAGE.md",
@@ -561,13 +561,13 @@
   },
   {
     "path": "docs/DESIGN-SYSTEM.md",
-    "bytes": 4187,
-    "sha256": "7848558ea65a6069b4c94b2872b0dfa9284e72e04dfbbb2443d8b113d7c10841"
+    "bytes": 6235,
+    "sha256": "f0e40c8e168bfe995ff5fed33bd1634825cac41297eed972f2c248291626b08c"
   },
   {
     "path": "docs/EMAIL-RECIPES.md",
-    "bytes": 3635,
-    "sha256": "00c9f80346903cd8a83c3f4229799de8fabdbe855242948a84c8ad3f97ff300b"
+    "bytes": 4661,
+    "sha256": "0b5607eed744a90fb8dacbc65a41faa0d396273788216ce18ad0a74ef86bf11e"
   },
   {
     "path": "docs/IMPLEMENTATION.md",
@@ -581,8 +581,8 @@
   },
   {
     "path": "index.html",
-    "bytes": 22584,
-    "sha256": "b1d676e679ae442bb77e991a9a9275fa5df98c52f5a76bea71167a975fc860fd"
+    "bytes": 24294,
+    "sha256": "34746ec21c934d4f88ce0b9ba7946b67df23d56eeb572d428f030e55da508f44"
   },
   {
     "path": "scripts/validate.py",

@@ -30,3 +30,16 @@ Approved core: “Matcha that loves you back,” “Your daily QT,” real match
 Do not revert to “iron-conscious” or frame QT as a milk-based instant latte. Avoid treating artwork as evidence of nutrition or benefits. Confirm current serving/pack details against approved product information; nutrition, ingredient amounts, shipping, return and subscription terms are not supplied as finalized specifications in this kit.
 
 The existing welcome copy includes 15% / QTCLUB15 and first-batch timing/priority language. These are preserved from the existing draft, not newly validated Shopify offer or fulfillment promises. The team must verify them before activation.
+
+## Suggested wave placement by email
+
+| Email family | Suggested wave treatment |
+|---|---|
+| Welcome / launch | Pink hero → cream; optionally frame one green supporting section with waves |
+| Flavor spotlight | One flavor-colored hero → cream transition; use a matching recolored asset for peach/yuzu |
+| Ingredient education / newsletter | One green story or ritual section with a wave at its entry and/or exit; keep the other sections straight |
+| Abandoned checkout / review / win-back | Optional single hero transition; keep product rows and the main action clear |
+| Order / shipping confirmation | Optional single decorative hero edge; no waves between order, payment or tracking rows |
+| Founder / personal note | Usually no waves; a quiet cream layout is intentional |
+
+These are starting points, not required counts. The signature comes from consistent wave shape and color matching, not repetition on every boundary. See [the wave specifications](DESIGN-SYSTEM.md#signature-qt-wave-sections--use-selectively).
